@@ -554,5 +554,13 @@
     "warn": 44,
     "water": 86,
     "whine": 139,
-    "wind_charge.burst": 509
+    "wind_charge.burst": 509,
+    "slime_landing": 601,
+    "absorb_block": 602,
+    "eject_block": 603,
+    "geyser_eruption_start": 604,
+    "geyser_eruption_active": 605,
+    "record.bounce": 606,
+    "bucket.fill.land_animal": 607,
+    "bucket.empty.land_animal": 608
 }
