@@ -134,5 +134,6 @@
     "minecraft:arrow": 80,
     "minecraft:villager": 15,
     "minecraft:villager_v2": 115,
-    "minecraft:player": 257
+    "minecraft:player": 257,
+    "minecraft:cushion": 154
 }
