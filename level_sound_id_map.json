@@ -563,7 +563,9 @@
     "record.bounce": 606,
     "bucket.fill.land_animal": 607,
     "bucket.empty.land_animal": 608,
-    "mount": 609,
-    "dismount": 610,
-    "straw_bed_break_leave": 611
+    "geyser_continuous_eruption_start": 609,
+    "geyser_continuous_eruption_active": 610,
+    "mount": 611,
+    "dismount": 612,
+    "straw_bed.break_leave": 613,
 }
