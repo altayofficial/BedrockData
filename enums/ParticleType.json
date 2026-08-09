@@ -103,6 +103,9 @@
         "PauseMobGrowth": 99,
         "ResetMobGrowth": 100,
         "SulfurCube": 101,
-        "_count": 102
+        "OrangePoplarLeaves": 102,
+        "RedPoplarLeaves": 103,
+        "YellowPoplarLeaves": 104,
+        "_count": 105
     }
 }
