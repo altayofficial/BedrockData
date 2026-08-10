@@ -23,7 +23,7 @@ def dump_enums(html_content):
     for row in rows:
         enum_name = row.td.string
         enum_values = {}
-        
+
         for line in row.find_all("tr"):
             cols = line.find_all("td")
             key = cols[0].string
@@ -32,7 +32,7 @@ def dump_enums(html_content):
                 enum_values[key] = int(value)
             except:
                 enum_values[key] = value
-        
+
         print(enum_name, enum_values)
         if enum_name in save:
             file_name = enum_name.replace("::", "_")
