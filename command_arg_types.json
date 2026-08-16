@@ -1,374 +1,74 @@
 {
-    "ARG": {
-        "description": "unknown",
-        "id": 30
-    },
-    "ARGS": {
-        "description": "unknown",
-        "id": 29
-    },
-    "BLOCK_STATE": {
-        "description": "unknown",
-        "id": 80
-    },
     "BLOCK_STATE_ARRAY": {
-        "description": "block states",
+        "description": "unknown",
         "id": 84
     },
-    "BLOCK_STATE_ARRAY_CONT": {
-        "description": "unknown",
-        "id": 85
-    },
-    "BLOCK_STATE_KEY": {
-        "description": "unknown",
-        "id": 81
-    },
-    "BLOCK_STATE_VALUE": {
-        "description": "unknown",
-        "id": 82
-    },
-    "BLOCK_STATE_VALUES": {
-        "description": "unknown",
-        "id": 83
-    },
-    "CLOCK_TIMEMARKER_NAME": {
-        "description": "timemarker name",
-        "id": 86
-    },
-    "CODEBUILDERARG": {
-        "description": "unknown",
-        "id": 87
-    },
     "CODEBUILDERARGS": {
-        "description": "command",
+        "description": "unknown",
         "id": 88
     },
-    "CODEBUILDERSELECTOR": {
-        "description": "unknown",
-        "id": 90
-    },
-    "CODEBUILDERSELECTPARAM": {
-        "description": "unknown",
-        "id": 89
-    },
-    "COMMAND": {
-        "description": "unknown",
-        "id": 91
-    },
     "COMPAREOPERATOR": {
-        "description": "compare operator",
+        "description": "unknown",
         "id": 7
     },
-    "COORD_X_FLOAT": {
-        "description": "unknown",
-        "id": 61
-    },
-    "COORD_X_INT": {
-        "description": "unknown",
-        "id": 58
-    },
-    "COORD_Y_FLOAT": {
-        "description": "unknown",
-        "id": 62
-    },
-    "COORD_Y_INT": {
-        "description": "unknown",
-        "id": 59
-    },
-    "COORD_Z_FLOAT": {
-        "description": "unknown",
-        "id": 63
-    },
-    "COORD_Z_INT": {
-        "description": "unknown",
-        "id": 60
-    },
-    "EQUIPMENTSLOTENUM": {
-        "description": "equipment slots",
-        "id": 47
-    },
-    "FAMILYARG": {
-        "description": "unknown",
-        "id": 35
-    },
-    "FLOAT": {
-        "description": "unknown",
-        "id": 2
-    },
     "FULLINTEGERRANGE": {
-        "description": "integer range",
+        "description": "unknown",
         "id": 23
     },
-    "FULLRATIONALRANGE": {
-        "description": "unknown",
-        "id": 27
-    },
-    "HASITEMARG": {
-        "description": "unknown",
-        "id": 44
-    },
-    "HASITEMARGS": {
-        "description": "unknown",
-        "id": 45
-    },
-    "HASITEMELEMENT": {
-        "description": "unknown",
-        "id": 42
-    },
-    "HASITEMELEMENTS": {
-        "description": "unknown",
-        "id": 43
-    },
-    "HASITEMSELECTOR": {
-        "description": "unknown",
-        "id": 46
-    },
-    "HASPROPERTYARG": {
-        "description": "unknown",
-        "id": 51
-    },
-    "HASPROPERTYARGS": {
-        "description": "unknown",
-        "id": 52
-    },
-    "HASPROPERTYELEMENT": {
-        "description": "unknown",
-        "id": 53
-    },
-    "HASPROPERTYELEMENTS": {
-        "description": "unknown",
-        "id": 54
-    },
-    "HASPROPERTYPARAMENUMVALUE": {
-        "description": "unknown",
-        "id": 50
-    },
-    "HASPROPERTYPARAMVALUE": {
-        "description": "unknown",
-        "id": 49
-    },
-    "HASPROPERTYSELECTOR": {
-        "description": "unknown",
-        "id": 55
-    },
     "ID": {
-        "description": "string",
+        "description": "unknown",
         "id": 56
     },
-    "IDCONT": {
-        "description": "unknown",
-        "id": 57
-    },
     "INT": {
-        "description": "int",
+        "description": "unknown",
         "id": 1
     },
-    "INTEGERRANGE": {
-        "description": "unknown",
-        "id": 22
-    },
-    "INTEGERRANGEPOSTVAL": {
-        "description": "unknown",
-        "id": 21
-    },
-    "INTEGERRANGEVAL": {
-        "description": "unknown",
-        "id": 20
-    },
-    "JSON_ARRAY": {
-        "description": "unknown",
-        "id": 77
-    },
-    "JSON_ARRAY_CONT": {
-        "description": "unknown",
-        "id": 79
-    },
-    "JSON_ARRAY_VALUES": {
-        "description": "unknown",
-        "id": 78
-    },
-    "JSON_FIELD": {
-        "description": "unknown",
-        "id": 73
-    },
     "JSON_OBJECT": {
-        "description": "json",
+        "description": "unknown",
         "id": 74
     },
-    "JSON_OBJECT_CONT": {
-        "description": "unknown",
-        "id": 76
-    },
-    "JSON_OBJECT_FIELDS": {
-        "description": "unknown",
-        "id": 75
-    },
-    "JSON_VALUE": {
-        "description": "unknown",
-        "id": 72
-    },
-    "MARG": {
-        "description": "unknown",
-        "id": 31
-    },
-    "MESSAGE": {
-        "description": "unknown",
-        "id": 67
-    },
-    "MESSAGEEXP": {
-        "description": "unknown",
-        "id": 66
-    },
     "MESSAGE_ROOT": {
-        "description": "message",
+        "description": "unknown",
         "id": 68
     },
-    "MVALUE": {
-        "description": "unknown",
-        "id": 32
-    },
-    "NAMEARG": {
-        "description": "unknown",
-        "id": 33
-    },
-    "NONIDSELECTION": {
-        "description": "unknown",
-        "id": 11
-    },
     "OPERATOR": {
-        "description": "operator",
+        "description": "unknown",
         "id": 6
     },
     "PATHCOMMAND": {
-        "description": "filepath",
+        "description": "unknown",
         "id": 17
     },
-    "PATHCOMMANDCONT": {
-        "description": "unknown",
-        "id": 19
-    },
-    "PATHCOMMANDVAL": {
-        "description": "unknown",
-        "id": 18
-    },
-    "PERMISSIONARG": {
-        "description": "unknown",
-        "id": 36
-    },
-    "PERMISSIONARGS": {
-        "description": "unknown",
-        "id": 37
-    },
-    "PERMISSIONELEMENT": {
-        "description": "unknown",
-        "id": 39
-    },
-    "PERMISSIONELEMENTS": {
-        "description": "unknown",
-        "id": 40
-    },
-    "PERMISSIONSELECTOR": {
-        "description": "unknown",
-        "id": 38
-    },
     "POSITION": {
-        "description": "x y z",
+        "description": "unknown",
         "id": 64
     },
     "POSITION_FLOAT": {
-        "description": "x y z",
+        "description": "unknown",
         "id": 65
     },
-    "POSTSELECTOR": {
-        "description": "unknown",
-        "id": 69
-    },
-    "PROPERTYVALUE": {
-        "description": "unknown",
-        "id": 48
-    },
-    "RATIONALRANGE": {
-        "description": "unknown",
-        "id": 26
-    },
-    "RATIONALRANGEPOSTVAL": {
-        "description": "unknown",
-        "id": 25
-    },
-    "RATIONALRANGEVAL": {
-        "description": "unknown",
-        "id": 24
-    },
     "RAWTEXT": {
-        "description": "text",
+        "description": "unknown",
         "id": 70
     },
-    "RAWTEXTCONT": {
-        "description": "unknown",
-        "id": 71
-    },
     "RVAL": {
-        "description": "value",
+        "description": "unknown",
         "id": 4
     },
-    "SCORESARG": {
-        "description": "unknown",
-        "id": 12
-    },
-    "SCORESARGS": {
-        "description": "unknown",
-        "id": 13
-    },
-    "SCORESELECTOR": {
-        "description": "unknown",
-        "id": 15
-    },
-    "SCORESELECTPARAM": {
-        "description": "unknown",
-        "id": 14
-    },
-    "SELARGS": {
-        "description": "unknown",
-        "id": 28
-    },
     "SELECTION": {
-        "description": "target",
+        "description": "unknown",
         "id": 8
     },
-    "SLASHCOMMAND": {
-        "description": "unknown",
-        "id": 92
-    },
-    "STANDALONESELECTION": {
-        "description": "unknown",
-        "id": 9
-    },
-    "TAGARG": {
-        "description": "unknown",
-        "id": 41
-    },
-    "TAGSELECTOR": {
-        "description": "unknown",
-        "id": 16
-    },
-    "TYPEARG": {
-        "description": "unknown",
-        "id": 34
-    },
     "VAL": {
-        "description": "float",
+        "description": "unknown",
         "id": 3
     },
     "WILDCARDINT": {
-        "description": "wildcard int",
+        "description": "unknown",
         "id": 5
     },
     "WILDCARDSELECTION": {
-        "description": "target",
-        "id": 10
-    },
-    "eps": {
         "description": "unknown",
-        "id": 0
+        "id": 10
     }
 }
