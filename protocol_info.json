@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 40,
-        "revision": 0,
-        "beta": false,
-        "protocol_version": 2168
+        "patch": 50,
+        "revision": 26,
+        "beta": true,
+        "protocol_version": 2192
     },
     "packets": {
         "LoginPacket": 1,
@@ -236,6 +236,8 @@
         "ServerPresenceInfoPacket": 347,
         "ClientboundUpdateSoundDataPacket": 348,
         "SendPartyDestinationCookiePacket": 349,
-        "PartyDestinationCookieResponsePacket": 350
+        "PartyDestinationCookieResponsePacket": 350,
+        "SetPlayerFurnaceOptionsPacket": 351,
+        "RecordStartedPacket": 352
     }
 }
