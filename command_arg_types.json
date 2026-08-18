@@ -41,7 +41,7 @@
     },
     "CODEBUILDERARGS": {
         "description": "command",
-        "id": 88
+        "id": 90
     },
     "CODEBUILDERSELECTOR": {
         "description": "unknown",
@@ -270,6 +270,14 @@
     "PERMISSIONSELECTOR": {
         "description": "unknown",
         "id": 38
+    },
+    "POI_TAG": {
+        "description": "unknown",
+        "id": 87
+    },
+    "POI_TYPE": {
+        "description": "unknown",
+        "id": 88
     },
     "POSITION": {
         "description": "x y z",
