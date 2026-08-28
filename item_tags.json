@@ -24,8 +24,6 @@
     "minecraft:oak_chest_boat",
     "minecraft:pale_oak_boat",
     "minecraft:pale_oak_chest_boat",
-    "minecraft:poplar_boat",
-    "minecraft:poplar_chest_boat",
     "minecraft:spruce_boat",
     "minecraft:spruce_chest_boat"
   ],
@@ -48,8 +46,6 @@
     "minecraft:oak_chest_boat",
     "minecraft:pale_oak_boat",
     "minecraft:pale_oak_chest_boat",
-    "minecraft:poplar_boat",
-    "minecraft:poplar_chest_boat",
     "minecraft:spruce_boat",
     "minecraft:spruce_chest_boat"
   ],
@@ -169,7 +165,6 @@
     "minecraft:mangrove_door",
     "minecraft:oxidized_copper_door",
     "minecraft:pale_oak_door",
-    "minecraft:poplar_door",
     "minecraft:spruce_door",
     "minecraft:warped_door",
     "minecraft:waxed_copper_door",
@@ -210,7 +205,6 @@
     "minecraft:mangrove_hanging_sign",
     "minecraft:oak_hanging_sign",
     "minecraft:pale_oak_hanging_sign",
-    "minecraft:poplar_hanging_sign",
     "minecraft:spruce_hanging_sign",
     "minecraft:warped_hanging_sign"
   ],
@@ -491,8 +485,6 @@
     "minecraft:oak_wood",
     "minecraft:pale_oak_log",
     "minecraft:pale_oak_wood",
-    "minecraft:poplar_log",
-    "minecraft:poplar_wood",
     "minecraft:spruce_log",
     "minecraft:spruce_wood",
     "minecraft:stripped_acacia_log",
@@ -513,8 +505,6 @@
     "minecraft:stripped_oak_wood",
     "minecraft:stripped_pale_oak_log",
     "minecraft:stripped_pale_oak_wood",
-    "minecraft:stripped_poplar_log",
-    "minecraft:stripped_poplar_wood",
     "minecraft:stripped_spruce_log",
     "minecraft:stripped_spruce_wood",
     "minecraft:stripped_warped_hyphae",
@@ -539,8 +529,6 @@
     "minecraft:oak_wood",
     "minecraft:pale_oak_log",
     "minecraft:pale_oak_wood",
-    "minecraft:poplar_log",
-    "minecraft:poplar_wood",
     "minecraft:spruce_log",
     "minecraft:spruce_wood",
     "minecraft:stripped_acacia_log",
@@ -559,8 +547,6 @@
     "minecraft:stripped_oak_wood",
     "minecraft:stripped_pale_oak_log",
     "minecraft:stripped_pale_oak_wood",
-    "minecraft:stripped_poplar_log",
-    "minecraft:stripped_poplar_wood",
     "minecraft:stripped_spruce_log",
     "minecraft:stripped_spruce_wood"
   ],
@@ -577,8 +563,7 @@
   ],
   "minecraft:mushrooms_for_stew": [
     "minecraft:brown_mushroom",
-    "minecraft:red_mushroom",
-    "minecraft:shelf_mushroom"
+    "minecraft:red_mushroom"
   ],
   "minecraft:music_disc": [
     "minecraft:music_disc_11",
@@ -636,7 +621,6 @@
     "minecraft:mangrove_planks",
     "minecraft:oak_planks",
     "minecraft:pale_oak_planks",
-    "minecraft:poplar_planks",
     "minecraft:spruce_planks",
     "minecraft:warped_planks"
   ],
@@ -665,8 +649,6 @@
     "minecraft:oak_sign",
     "minecraft:pale_oak_hanging_sign",
     "minecraft:pale_oak_sign",
-    "minecraft:poplar_hanging_sign",
-    "minecraft:poplar_sign",
     "minecraft:spruce_hanging_sign",
     "minecraft:spruce_sign",
     "minecraft:warped_hanging_sign",
@@ -821,9 +803,6 @@
     "minecraft:pale_oak_log",
     "minecraft:pale_oak_planks",
     "minecraft:pale_oak_wood",
-    "minecraft:poplar_log",
-    "minecraft:poplar_planks",
-    "minecraft:poplar_wood",
     "minecraft:spruce_log",
     "minecraft:spruce_planks",
     "minecraft:spruce_wood",
@@ -846,8 +825,6 @@
     "minecraft:stripped_oak_wood",
     "minecraft:stripped_pale_oak_log",
     "minecraft:stripped_pale_oak_wood",
-    "minecraft:stripped_poplar_log",
-    "minecraft:stripped_poplar_wood",
     "minecraft:stripped_spruce_log",
     "minecraft:stripped_spruce_wood",
     "minecraft:stripped_warped_hyphae",
@@ -1287,7 +1264,6 @@
     "minecraft:mangrove_slab",
     "minecraft:oak_slab",
     "minecraft:pale_oak_slab",
-    "minecraft:poplar_slab",
     "minecraft:spruce_slab",
     "minecraft:warped_slab"
   ],
