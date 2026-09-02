@@ -3,8 +3,8 @@
         "major": 1,
         "minor": 26,
         "patch": 50,
-        "revision": 0,
-        "beta": false,
+        "revision": 27,
+        "beta": true,
         "protocol_version": 2192
     },
     "packets": {
