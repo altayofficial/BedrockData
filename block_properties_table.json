@@ -87,7 +87,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:acacia_sapling": {
         "blastResistance": 0.0,
@@ -438,7 +438,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:bamboo_sapling": {
         "blastResistance": 1.0,
@@ -546,7 +546,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.20000000298023224,
-        "opacity": 0.8999999985098839
+        "opacity": 0.8999999761581421
     },
     "minecraft:bedrock": {
         "blastResistance": 3600000.0,
@@ -690,7 +690,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:birch_sapling": {
         "blastResistance": 0.0,
@@ -1549,7 +1549,7 @@
     },
     "minecraft:campfire": {
         "blastResistance": 2.0,
-        "brightness": 0.0,
+        "brightness": 15.0,
         "flameEncouragement": 5,
         "flammability": 20,
         "friction": 0.6000000238418579,
@@ -1752,13 +1752,13 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:cherry_sapling": {
         "blastResistance": 0.0,
         "brightness": 0.0,
-        "flameEncouragement": 5,
-        "flammability": 20,
+        "flameEncouragement": 0,
+        "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
@@ -2589,7 +2589,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:crimson_roots": {
         "blastResistance": 0.0,
@@ -3012,7 +3012,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:dark_oak_sapling": {
         "blastResistance": 0.0,
@@ -6054,7 +6054,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:honey_block": {
         "blastResistance": 0.0,
@@ -6378,7 +6378,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:jungle_sapling": {
         "blastResistance": 0.0,
@@ -7008,7 +7008,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:lightning_rod": {
         "blastResistance": 6.0,
@@ -7521,7 +7521,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:mangrove_propagule": {
         "blastResistance": 0.0,
@@ -8592,13 +8592,13 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:pale_oak_sapling": {
         "blastResistance": 0.0,
         "brightness": 0.0,
-        "flameEncouragement": 5,
-        "flammability": 20,
+        "flameEncouragement": 0,
+        "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
@@ -9069,7 +9069,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:polished_blackstone_slab": {
         "blastResistance": 6.0,
@@ -9429,13 +9429,13 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:poplar_sapling": {
         "blastResistance": 0.0,
         "brightness": 0.0,
-        "flameEncouragement": 5,
-        "flammability": 20,
+        "flameEncouragement": 0,
+        "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
@@ -10828,7 +10828,7 @@
     },
     "minecraft:soul_campfire": {
         "blastResistance": 2.0,
-        "brightness": 0.0,
+        "brightness": 10.0,
         "flameEncouragement": 5,
         "flammability": 20,
         "friction": 0.6000000238418579,
@@ -10986,7 +10986,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:spruce_sapling": {
         "blastResistance": 0.0,
@@ -11166,7 +11166,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:stone_stairs": {
         "blastResistance": 6.0,
@@ -11908,7 +11908,7 @@
     },
     "minecraft:vault": {
         "blastResistance": 50.0,
-        "brightness": 0.0,
+        "brightness": 6.0,
         "flameEncouragement": 0,
         "flammability": 0,
         "friction": 0.6000000238418579,
@@ -12048,7 +12048,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:warped_roots": {
         "blastResistance": 0.0,
@@ -13119,7 +13119,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
-        "opacity": 0.7999999970197678
+        "opacity": 0.800000011920929
     },
     "minecraft:yellow_candle": {
         "blastResistance": 0.10000000149011612,
