@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 50,
-        "revision": 5,
-        "beta": false,
-        "protocol_version": 2193
+        "patch": 60,
+        "revision": 25,
+        "beta": true,
+        "protocol_version": 2211
     },
     "packets": {
         "LoginPacket": 1,
@@ -238,6 +238,10 @@
         "SendPartyDestinationCookiePacket": 349,
         "PartyDestinationCookieResponsePacket": 350,
         "SetPlayerFurnaceOptionsPacket": 351,
-        "RecordStartedPacket": 352
+        "RecordStartedPacket": 352,
+        "ClientboundMatchmakingStatePacket": 353,
+        "ServerboundStonecutterSetRecipePacket": 354,
+        "ClientboundStonecutterSetRecipePacket": 355,
+        "ServerboundMatchmakingCancelPacket": 356
     }
 }
