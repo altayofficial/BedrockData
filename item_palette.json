@@ -778,7 +778,7 @@
       "name": "minecraft:black_shulker_box",
       "id": -627,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:black_stained_glass",
@@ -988,7 +988,7 @@
       "name": "minecraft:blue_shulker_box",
       "id": -623,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:blue_stained_glass",
@@ -1300,7 +1300,7 @@
       "name": "minecraft:brown_shulker_box",
       "id": -624,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:brown_stained_glass",
@@ -2752,7 +2752,7 @@
       "name": "minecraft:cyan_shulker_box",
       "id": -621,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:cyan_stained_glass",
@@ -5098,7 +5098,7 @@
       "name": "minecraft:gray_shulker_box",
       "id": -619,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:gray_stained_glass",
@@ -5224,7 +5224,7 @@
       "name": "minecraft:green_shulker_box",
       "id": -625,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:green_stained_glass",
@@ -6430,7 +6430,7 @@
       "name": "minecraft:light_blue_shulker_box",
       "id": -615,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:light_blue_stained_glass",
@@ -6550,7 +6550,7 @@
       "name": "minecraft:light_gray_shulker_box",
       "id": -620,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:light_gray_stained_glass",
@@ -6700,7 +6700,7 @@
       "name": "minecraft:lime_shulker_box",
       "id": -617,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:lime_stained_glass",
@@ -6916,7 +6916,7 @@
       "name": "minecraft:magenta_shulker_box",
       "id": -614,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:magenta_stained_glass",
@@ -7924,7 +7924,7 @@
       "name": "minecraft:orange_shulker_box",
       "id": -613,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:orange_stained_glass",
@@ -8428,7 +8428,7 @@
       "name": "minecraft:pink_shulker_box",
       "id": -618,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:pink_stained_glass",
@@ -9214,7 +9214,7 @@
       "name": "minecraft:purple_shulker_box",
       "id": -622,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:purple_stained_glass",
@@ -9610,7 +9610,7 @@
       "name": "minecraft:red_shulker_box",
       "id": -626,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:red_stained_glass",
@@ -11242,7 +11242,7 @@
       "name": "minecraft:undyed_shulker_box",
       "id": 205,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:unknown",
@@ -12088,7 +12088,7 @@
       "name": "minecraft:white_shulker_box",
       "id": 218,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:white_stained_glass",
@@ -12370,7 +12370,7 @@
       "name": "minecraft:yellow_shulker_box",
       "id": -616,
       "version": 2,
-      "component_based": false
+      "component_based": true
     },
     {
       "name": "minecraft:yellow_stained_glass",
