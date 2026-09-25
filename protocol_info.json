@@ -2,8 +2,8 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 50,
-        "revision": 5,
+        "patch": 52,
+        "revision": 3,
         "beta": false,
         "protocol_version": 2193
     },
