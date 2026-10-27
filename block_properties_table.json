@@ -825,7 +825,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:black_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -1032,7 +1032,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:blue_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -1320,7 +1320,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:brown_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -2814,7 +2814,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:cyan_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -3633,6 +3633,15 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.5,
+        "opacity": 1.0
+    },
+    "minecraft:disc_press": {
+        "blastResistance": 2.5,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 2.5,
         "opacity": 1.0
     },
     "minecraft:dispenser": {
@@ -5451,7 +5460,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:gray_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -5604,7 +5613,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:green_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -6125,6 +6134,24 @@
         "flameEncouragement": 0,
         "flammability": 0,
         "friction": 0.9800000190734863,
+        "hardness": 0.5,
+        "opacity": 1.0
+    },
+    "minecraft:ice_crystal": {
+        "blastResistance": 1.5,
+        "brightness": 4.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:icicle": {
+        "blastResistance": 0.5,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
         "hardness": 0.5,
         "opacity": 1.0
     },
@@ -6765,7 +6792,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:light_blue_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -6918,7 +6945,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:light_gray_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -7098,7 +7125,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:lime_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -7332,7 +7359,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:magenta_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -8196,7 +8223,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:orange_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -8772,7 +8799,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:pink_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -9726,7 +9753,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:purple_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -10023,7 +10050,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:red_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -12966,7 +12993,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:white_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
@@ -13182,7 +13209,7 @@
         "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 1.7999999523162842,
-        "opacity": 0.19999998807907104
+        "opacity": 1.0
     },
     "minecraft:yellow_concrete_stairs": {
         "blastResistance": 0.35999998450279236,
