@@ -2,9 +2,9 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 60,
-        "revision": 30,
-        "beta": true,
+        "patch": 61,
+        "revision": 1,
+        "beta": false,
         "protocol_version": 2225
     },
     "packets": {
