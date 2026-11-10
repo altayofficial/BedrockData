@@ -391,6 +391,10 @@
     "minecraft:stone_pickaxe",
     "minecraft:wooden_pickaxe"
   ],
+  "minecraft:is_pickaxe_item_destructible": [
+    "minecraft:ice_crystal",
+    "minecraft:icicle"
+  ],
   "minecraft:is_shears": [
     "minecraft:shears"
   ],
@@ -591,6 +595,7 @@
     "minecraft:music_disc_creator",
     "minecraft:music_disc_creator_music_box",
     "minecraft:music_disc_far",
+    "minecraft:music_disc_flurry",
     "minecraft:music_disc_lava_chicken",
     "minecraft:music_disc_mall",
     "minecraft:music_disc_mellohi",
@@ -705,6 +710,7 @@
     "minecraft:evoker_spawn_egg",
     "minecraft:fox_spawn_egg",
     "minecraft:frog_spawn_egg",
+    "minecraft:frostbite_spawn_egg",
     "minecraft:ghast_spawn_egg",
     "minecraft:glow_squid_spawn_egg",
     "minecraft:goat_spawn_egg",
@@ -856,6 +862,9 @@
     "minecraft:warped_planks",
     "minecraft:warped_stem"
   ],
+  "minecraft:sulfur_cube_archetype_cold": [
+    "minecraft:blue_ice"
+  ],
   "minecraft:sulfur_cube_archetype_explosive": [
     "minecraft:tnt"
   ],
@@ -888,9 +897,11 @@
     "minecraft:wet_sponge"
   ],
   "minecraft:sulfur_cube_archetype_fast_sliding": [
-    "minecraft:blue_ice",
+    "minecraft:chiseled_packed_ice",
     "minecraft:packed_ice",
-    "minecraft:snow"
+    "minecraft:packed_ice_bricks",
+    "minecraft:snow",
+    "minecraft:snow_bricks"
   ],
   "minecraft:sulfur_cube_archetype_high_resistance": [
     "minecraft:soul_sand",
@@ -962,6 +973,7 @@
     "minecraft:brown_glazed_terracotta",
     "minecraft:brown_terracotta",
     "minecraft:calcite",
+    "minecraft:calcite_pillar",
     "minecraft:chiseled_cinnabar",
     "minecraft:chiseled_deepslate",
     "minecraft:chiseled_nether_bricks",
@@ -969,6 +981,7 @@
     "minecraft:chiseled_quartz_block",
     "minecraft:chiseled_red_sandstone",
     "minecraft:chiseled_sandstone",
+    "minecraft:chiseled_soulshale",
     "minecraft:chiseled_stone_bricks",
     "minecraft:chiseled_sulfur",
     "minecraft:chiseled_tuff",
@@ -1046,6 +1059,8 @@
     "minecraft:polished_basalt",
     "minecraft:polished_blackstone",
     "minecraft:polished_blackstone_bricks",
+    "minecraft:polished_calcite",
+    "minecraft:polished_calcite_bricks",
     "minecraft:polished_cinnabar",
     "minecraft:polished_deepslate",
     "minecraft:polished_diorite",
