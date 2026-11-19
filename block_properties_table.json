@@ -1259,6 +1259,15 @@
         "hardness": 2.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:brittle_ice": {
+        "blastResistance": 0.5,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.9800000190734863,
+        "hardness": 0.5,
+        "opacity": 1.0
+    },
     "minecraft:brown_candle": {
         "blastResistance": 0.10000000149011612,
         "brightness": 0.0,
